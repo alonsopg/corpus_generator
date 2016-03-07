@@ -4,7 +4,7 @@ This script transforms a directory full of `.txt` files (typically opinions) to 
 In the terminal just:
 
 `$python corpus_creator_v1.py /directory/of/opinions`
-
+## Example
 It will generate a .csv file where each instance will be a line, followed by it's id or name. For instance:
 ```
 id|content
