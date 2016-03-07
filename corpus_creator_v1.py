@@ -1,3 +1,6 @@
+#ToDo opcion para especificar donde colocar el archivo de salida o corpus
+#ToDo opcion para cambiar a txt utf8 todos los archivos del directorio
+
 import glob, os, csv, argparse
 
 def retrive(directory):
