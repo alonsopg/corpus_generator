@@ -1,5 +1,5 @@
 # Corpus generator
-This script transforms a directory full of .txt files (typically opinions) to a `.csv` file. This could be useful for sentiment analysis tasks.
+This script transforms a directory full of `.txt` files (typically opinions) to a `.csv` file. This could be useful for sentiment analysis tasks.
 **usage**
 In the terminal just:
 
