@@ -1,10 +1,10 @@
-# Corpus generator
+#Corpus generator
 This script transforms a directory full of `.txt` files (typically opinions) to a `.csv` file. This could be useful for sentiment analysis tasks.
-### Usage
+###Usage
 In the terminal just:
+`$ python corpus_creator.py directory's/path/full/of/opinions/in/.txt -o /path/destiny/new/corpus.csv`
 
-`$python corpus_creator_v1.py /directory/of/opinions`
-## Example
+###Example
 It will generate a .csv file where each instance will be a line, followed by it's id or name. For instance:
 ```
 id|content
