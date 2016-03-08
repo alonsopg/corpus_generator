@@ -4,7 +4,8 @@ This script transforms a directory full of `.txt` files (typically opinions) to 
 In the terminal just:
 
 ```
-$ python corpus_creator.py directory's/path/full/of/opinions/in/.txt -o /path/destiny/new/corpus.csv`
+$ python corpus_creator.py **-input_directory:** directory's/path/full/of/opinions/in/.txt **-output_corpus:** /path/destiny/new/corpus.csv`
+
 ```
 
 ###Example
