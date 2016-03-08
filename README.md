@@ -8,6 +8,11 @@ $ python corpus_creator.py directory's/path/full/of/opinions/in/.txt -o /path/de
 ```
 
 ###Example
+
+```
+user@MacBook-Pro-de-User-4:~/Downloads$ python corpus_creator_v2.py -input_directory: /Users/user/Downloads/opinions_2/ -output_corpus: /Users/user/Downloads/aNewCorpus.csv
+```
+
 It will generate a .csv file where each instance will be a line, followed by it's id or name. For instance:
 ```
 id|content
